@@ -1,0 +1,25 @@
+body {
+  font-family: "Avenir Next";
+}
+
+.category {
+    margin-top: 20px;
+}
+
+.header {
+  font-size: 24px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.price {
+  color: red;
+  font-size: 12px;
+}
+
+.desc {
+  font-size: 12px;
+}
