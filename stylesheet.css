@@ -7,12 +7,10 @@ body {
   font-weight: bold;
 }
 
-.price {
-  font-weight: bold;
-  color: #6d2aff;
+.category {
+  margin: 20px 0;
 }
 
-.category {
-  color: #333;
-  margin: 20px 0;
+.desc {
+  margin-bottom: 40px;
 }
