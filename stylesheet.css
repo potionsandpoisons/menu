@@ -12,14 +12,26 @@ body {
 
 .name {
   font-weight: bold;
-  font-size: 16px;
+
 }
 
 .price {
   color: red;
-  font-size: 12px;
+
 }
 
 .desc {
-  font-size: 12px;
+
+}
+
+@media only screen and (max-width: 768px) {
+  b {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  b {
+    font-size: 10px;
+  }
 }
