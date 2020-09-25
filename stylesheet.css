@@ -3,30 +3,8 @@ body {
   font-size: 1.5em;
 }
 
-.category {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border-bottom: 1px solid #ccc;
-}
 
-.header {
-    border-bottom: 5px solid black;
-}
 
 .name {
   font-weight: bold;
-}
-
-@media only screen and (max-width: 768px) {
-  b {
-    font-size: 20px;
-    color: blue;
-  }
-}
-
-@media only screen and (max-width: 320px) {
-  b {
-    font-size: 10px;
-    color: red;
-  }
 }
