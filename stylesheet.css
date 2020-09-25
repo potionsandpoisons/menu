@@ -14,12 +14,3 @@ body {
 .desc {
   margin-bottom: 50px;
 }
-
-.header {
-  font-size: 60px;
-  font-weight: bold;
-}
-
-.price {
-  color: #6d2aff !important;
-}
